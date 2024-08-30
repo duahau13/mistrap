@@ -6,7 +6,5 @@ module.exports = (config, webpack) => {
   // Perform customizations to webpack config
   // Important: return the modified config now
   // Sub branch test
-  // Test more
-  // Test commit
   return config;
 };
